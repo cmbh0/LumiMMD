@@ -351,7 +351,7 @@ desktop/   在电脑上离屏运行引擎的小工具（LWJGL + EGL）：离屏�
            以及 ModelInfoMain（把模型文件读进来打印统计，用来和 Blender 自己给的数据对比）
 tools/     render.sh：离屏渲染的启动脚本
 tools/blend/  生成 .blend 测试文件的 Blender 脚本（make_scene.py）和对比脚本
-release/   打好的 APK、截图、发布版的混淆表（看崩溃记录用）
+release/   打好的 APK 和发布版的混淆表（看崩溃记录用），不放进仓库，见 Releases 页
 ```
 
 ## 构建
