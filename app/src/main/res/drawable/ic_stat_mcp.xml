@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 通知栏小图标：两个连在一起的节点（MCP 服务运行中） -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp" android:viewportWidth="24" android:viewportHeight="24">
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M6,9a3,3 0,1 0,2.83 4H15.17A3,3 0,1 0,15.17 11H8.83A3,3 0,0 0,6 9zM6,11a1,1 0,1 1,0 2a1,1 0,0 1,0 -2zM18,11a1,1 0,1 1,0 2a1,1 0,0 1,0 -2z" />
+</vector>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_bg">#FFF4F0FF</color>
+    <!-- 启动图标背景层：图标原图里夜空的颜色（前景层不透明，平时看不到） -->
+    <color name="ic_launcher_background">#FF0D0D21</color>
+</resources>

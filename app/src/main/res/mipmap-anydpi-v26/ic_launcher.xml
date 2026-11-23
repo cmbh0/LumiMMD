@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  自适应图标（Android 8 起）。前景层是一张不透明的图：原图正好占中间的 72dp（各家桌面能露出的最大范围），
+  圆角方形的桌面上整张图都看得到。各个 mipmap-* 里的 png 由 tools/make_icons.py 从一张方形原图生成，换图时重新跑一遍。
+-->
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/ic_launcher_background" />
+    <foreground android:drawable="@mipmap/ic_launcher_foreground" />
+</adaptive-icon>
